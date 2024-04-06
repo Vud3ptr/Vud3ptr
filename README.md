@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vud3ptr
+- 👀 I’m interested in math and back-end coding
+- 🌱 I’m currently learning IT at HSGS
+- 💞️ I’m looking to collaborate on a lot of project 
